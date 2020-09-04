@@ -72,27 +72,27 @@ form .mandarory {
 }
 
 .bg-gallery {
-    background: url(../images/bg-gallery.jpeg) no-repeat;
+    background: url(bg-gallery.jpeg) no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, .5);
     background-blend-mode: darken;
 }
 
 .bg-blog {
-    background: url(../images/bg-blog.jpeg) no-repeat;
+    background: url(bg-blog.jpeg) no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, .5);
     background-blend-mode: darken;
 }
 
 .bg-shop {
-    background: url(../images/bg-shop.png) no-repeat;
+    background: url(bg-shop.png) no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, .5);
     background-blend-mode: darken;
 }
 .bg-contacts {
-    background: url(../images/bg-contacts.jpeg) no-repeat;
+    background: url(bg-contacts.jpeg) no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, .5);
     background-blend-mode: darken;
